@@ -11,4 +11,7 @@ end
 
 
 def link
+  warn = "It's Dangerous To Go Alone! Take This"
+  puts warn
+end
   
